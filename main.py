@@ -5,4 +5,3 @@
 # Author: Emily Pham <emilyn3@hawaii.edu>
 
 import discord
-
